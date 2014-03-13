@@ -1,0 +1,6 @@
+<resources>
+    <color name="top_item">#a6c</color>
+    <color name="sticky_item">#f44</color>
+    <color name="sticky_item_text">#fff</color>
+    <color name="comanda_item_text">#66FF0000</color>
+</resources>

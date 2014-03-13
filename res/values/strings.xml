@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">QuickReturn ListView</string>
+    <string name="title_activity_main">QuickReturn UI</string>
+    <string name="default_fragment">Default</string>
+    <string name="animation_fragment">Animation</string>
+    <string name="footer">The Footer</string>
+    <string name="footer_fragment">Footer</string>
+    <string name="footer_fragmentheader">Footer and Header</string>
+
+</resources>
